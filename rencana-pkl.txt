@@ -1,0 +1,3 @@
+Rencana Pkl
+- belajar git dan github
+-belajar laravel framework
